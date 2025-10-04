@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888381980746",
+    "project_id": "apfood-ordering-app",
+    "storage_bucket": "apfood-ordering-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888381980746:android:e5cced79860e8d4c5d66b3",
+        "android_client_info": {
+          "package_name": "com.example.apfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdmxDpYEWjWxZTpG5bWShg9JN9nl5rrpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
